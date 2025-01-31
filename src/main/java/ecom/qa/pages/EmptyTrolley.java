@@ -19,6 +19,7 @@ public class EmptyTrolley extends BasePage{
 		//click(emptyTrolleyButton);
 		driver.findElement(By.xpath("//*[@id=\"main\"]/div[2]/div[1]/button")).click();
 		click(acceptEmptyTrolleyButton);
+		
 	}
 
 }
