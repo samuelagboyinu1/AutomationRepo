@@ -33,7 +33,7 @@ public class CartPage extends BasePage{
 				Thread.sleep(5000);
 			} catch (InterruptedException e) {
 				// TODO Auto-generated catch block
-				e.printStackTrace();
+				   e.printStackTrace();
 			}
 	        click(bookASlot);
 	        
